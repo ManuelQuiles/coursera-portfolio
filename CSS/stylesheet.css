@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(53, 53, 53);
+}
+
+footer {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+h1, h2 {
+    text-align: center;
+}
+.mema {
+    width: 100%;
+}
+
+@media screen and (min-width : 900px){
+    .mema {
+        width: 20%;
+    }
+}
